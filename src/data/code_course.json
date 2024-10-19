@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Game Developments",
+            "slug": "game-development",
+            "description": "Level up your game development skills with advanced techniques and build immersive experiences from concept to completion.",
+            "price": 99.99,
+            "instructor": "m ali raza",
+            "isFeatured": true,
+            "image": "game.png"
+        },
+        {
+            "id": 1,
+            "title": "Game Developments",
+            "slug": "game-development",
+            "description": "Level up your game development skills with advanced techniques and build immersive experiences from concept to completion.",
+            "price": 99.99,
+            "instructor": "m ali raza",
+            "isFeatured": true,
+            "image": "game.png"
+        },
+        {
+            "id": 1,
+            "title": "Game Developments",
+            "slug": "game-development",
+            "description": "Level up your game development skills with advanced techniques and build immersive experiences from concept to completion.",
+            "price": 99.99,
+            "instructor": "m ali raza",
+            "isFeatured": false,
+            "image": "game.png"
+        },
+        {
+            "id": 1,
+            "title": "Game Developments",
+            "slug": "game-development",
+            "description": "Level up your game development skills with advanced techniques and build immersive experiences from concept to completion.",
+            "price": 99.99,
+            "instructor": "m ali raza",
+            "isFeatured": true,
+            "image": "game.png"
+        },
+        {
+            "id": 1,
+            "title": "Game Developments",
+            "slug": "game-development",
+            "description": "Level up your game development skills with advanced techniques and build immersive experiences from concept to completion.",
+            "price": 99.99,
+            "instructor": "m ali raza",
+            "isFeatured": true,
+            "image": "game.png"
+        },
+        {
+            "id": 1,
+            "title": "Game Developments",
+            "slug": "game-development",
+            "description": "Level up your game development skills with advanced techniques and build immersive experiences from concept to completion.",
+            "price": 99.99,
+            "instructor": "m ali raza",
+            "isFeatured": false,
+            "image": "game.png"
+        }
+    ]
+    }
